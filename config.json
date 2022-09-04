@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6283811034750@s.whatsapp.net","622150996855@s.whatsapp.net"],
+    "ownerName": "Pecinta anime",
+    "instagram" : "https://instagram.com/pecintawaifu",
+    "botName": "Wa bot ",
+    "footer": "https://pecintanime.care",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "V12",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 1000
+    }
+}
